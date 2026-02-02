@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 190">
+  <rect x="25" y="15" width="40" height="25" rx="3" fill="#2D6A4F"/>
+  <rect x="69" y="15" width="44" height="25" rx="3" fill="#52B788"/>
+
+  <rect x="25" y="44" width="88" height="27" rx="3" fill="#1B4332"/>
+  <rect x="117" y="15" width="58" height="56" rx="3" fill="#2D6A4F"/>
+
+  <rect x="25" y="75" width="52" height="66" rx="3" fill="#52B788"/>
+  <rect x="81" y="75" width="94" height="30" rx="3" fill="#1B4332"/>
+
+  <rect x="81" y="109" width="44" height="32" rx="3" fill="#2D6A4F"/>
+  <rect x="129" y="109" width="46" height="32" rx="3" fill="#52B788"/>
+
+  <text x="100" y="175" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-weight="700" font-size="26" letter-spacing="1.5" fill="#1B4332">Ersha OS</text>
+</svg>
